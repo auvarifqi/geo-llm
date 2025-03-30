@@ -1,0 +1,25 @@
+# Core Application
+streamlit
+pydeck
+python-dotenv
+
+# Data Processing
+pandas
+numpy
+
+# API Clients
+requests
+openai
+
+# Image Processing
+Pillow
+
+# Utilities
+cachetools
+tqdm
+
+# Development
+black
+flake8
+pytest
+transformers
